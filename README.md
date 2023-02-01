@@ -8,7 +8,7 @@ Space is a beautiful place that we can only hope to explore more in the future. 
 **Link to Github project:** https://github.com/DominikJ22/Nasa-Explorer
 
 <p align="center">
-<img width="500" src="invi.gif" alt="space.gif"/> 
+<img width="500" src="space.gif" alt="space.gif"/> 
 </p>
 
 ## How It's Made:
